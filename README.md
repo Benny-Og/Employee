@@ -17,4 +17,4 @@ The project provides detailed information on the sales performance of employees 
 
 <h2>File Access</h2>
 
-- <b>Please click the PYTHON file above to view the project</b>
+- <b>Please click the SQL file above to view the project</b>
